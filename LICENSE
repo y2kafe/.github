@@ -1,6 +1,6 @@
-                   The Based License v1.3.6
+                   The Based License v1.3.6 (modified)
 
-Used by Kainoa Kanter as of March 9, 2022
+Used by the Y2Kafé developers as of March 9, 2022
 Written by Kainoa Kanter (ThatOneCalculator) on 1 March, 2022
 
 ---
@@ -18,7 +18,7 @@ While the software author(s) can modifify the based license, you have to state b
 how it was modified.
 
 Have the license terms been modified? If so, how was it modified?
-* No, the terms in this copy of the based license has not been modified. *
+* Yes, as all non-code media is licensed under the CC BY-NC-SA 4.0. *
 
 ---
 
@@ -28,6 +28,11 @@ All copies of this software that are redistributed (INCLUDING modifications to t
 must have their source code easily and publicly available, and also be licensed under the based license.
 That means that this is a copyleft license. If the software does not contain a copy of this license, you
 can obtain a copy from https://github.com/ThatOneCalculator/BASED-LICENSE/blob/main/LICENSE
+
+***
+All non-code media (including but not limited to art, music, and UI elements) are licensed under the
+CC BY-NC-SA 4.0, you can obtain a copy from  https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+***
 
 The author of this software has the right to claim the software as their own, and while anyone can contribute
 to, redistribute, and modify this software (under the based license), they cannot claim it as their own software,
